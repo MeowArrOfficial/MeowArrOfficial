@@ -65,4 +65,5 @@ Crossout - idk, i forgot because of no playing this game<br>
 C.A.T.S. - MEOW ARR<br>
 Tuning club online - MEOW.ARR<br>
 
-Well I think that's it, bye.
+Well I think that's it, bye.<br>
+<img width="640" height="640" alt="avatarka (NEW) 640x640 (PNG)" src="https://github.com/user-attachments/assets/4bd7fe8d-34a0-44e0-ae0a-3fe7bd8ea1ed" />
