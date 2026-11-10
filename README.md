@@ -1,4 +1,4 @@
-##RU Section
+## RU Section
 Хз че тут писать ну типа прив
 Ну я типа мяу арр
 И я ну занимаюсь кодингом и прочей хернёй.
@@ -32,7 +32,7 @@ Tuning club online - MEOW.ARR
 
 Ну вроде всё, бб.
 -----------------------
-##ENG Section
+## ENG Section
 Idk what to write here, like hi
 Well I'm like meow arr
 And I'm like into coding and other crap.
