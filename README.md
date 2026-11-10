@@ -5,7 +5,7 @@
 Ну крч, где я есть:
 
 YouTube - https://www.youtube.com/@meow_arr_official
-Telegram - @meow_arr_official
+\nTelegram - @meow_arr_official
 Telegram channel - https://t.me/hello_my_friend_its_meow_arr
 Discord - meow_arr_official
 Discord server - https://discord.gg/W5ugyqCRdF
@@ -31,7 +31,8 @@ C.A.T.S. - MEOW ARR
 Tuning club online - MEOW.ARR
 
 Ну вроде всё, бб.
------------------------
+
+
 ## ENG Section
 Idk what to write here, like hi
 Well I'm like meow arr
