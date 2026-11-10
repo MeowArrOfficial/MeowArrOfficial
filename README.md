@@ -4,8 +4,8 @@
 И я ну занимаюсь кодингом и прочей хернёй.
 Ну крч, где я есть:
 
-YouTube - https://www.youtube.com/@meow_arr_official
-\nTelegram - @meow_arr_official
+YouTube - https://www.youtube.com/@meow_arr_official \n
+\n Telegram - @meow_arr_official
 Telegram channel - https://t.me/hello_my_friend_its_meow_arr
 Discord - meow_arr_official
 Discord server - https://discord.gg/W5ugyqCRdF
