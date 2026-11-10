@@ -1,8 +1,8 @@
 ## RU Section
-Хз че тут писать ну типа прив
-Ну я типа мяу арр
-И я ну занимаюсь кодингом и прочей хернёй.
-Ну крч, где я есть:
+Хз че тут писать ну типа прив<br>
+Ну я типа мяу арр<br>
+И я ну занимаюсь кодингом и прочей хернёй.<br>
+Ну крч, где я есть:<br>
 
 YouTube - https://www.youtube.com/@meow_arr_official<br>
 Telegram - @meow_arr_official<br>
@@ -34,10 +34,10 @@ Tuning club online - MEOW.ARR<br>
 
 
 ## ENG Section
-Idk what to write here, like hi
-Well I'm like meow arr
-And I'm like into coding and other crap.
-Anyway, where you can find me:
+Idk what to write here, like hi<br>
+Well I'm like meow arr<br>
+And I'm like into coding and other crap.<br>
+Anyway, where you can find me:<br>
 
 YouTube - https://www.youtube.com/@meow_arr_official<br>
 Telegram - @meow_arr_official<br>
